@@ -17,4 +17,4 @@ documents, with source page citations.
 See [Task_2_Document_QA_RAG/README.md](./Task_2_Document_QA_RAG/README.md) for setup and usage.
 
 ## Author
-<Your Muhammad Talha>
+Muhammad Talha
